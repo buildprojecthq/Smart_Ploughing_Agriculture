@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Smart Agri Robot</string>
+    <string name="status_disconnected">Disconnected</string>
+    <string name="status_connecting">Connecting...</string>
+    <string name="status_connected">Connected: %1$s</string>
+    <string name="btn_connect">Connect BT</string>
+    <string name="btn_disconnect">Disconnect</string>
+    
+    <string name="title_locomotion">Locomotion Control</string>
+    <string name="title_tools">Agricultural Implements</string>
+    
+    <string name="btn_forward">▲\nFWD</string>
+    <string name="btn_backward">▼\nREV</string>
+    <string name="btn_left">◀\nLEFT</string>
+    <string name="btn_right">▶\nRIGHT</string>
+    <string name="btn_stop">STOP</string>
+    
+    <string name="tool_plough_title">Soil Ploughing Unit</string>
+    <string name="tool_plough_desc">MG996R Servo (Pin D10)</string>
+    
+    <string name="tool_seed_title">Seed Sowing Dispenser</string>
+    <string name="tool_seed_desc">MG90S Agitation (Pin D9)</string>
+    
+    <string name="tool_water_title">Water &amp; Pesticide Sprayer</string>
+    <string name="tool_water_desc">DC Pump Relay (Pin D8)</string>
+</resources>
+

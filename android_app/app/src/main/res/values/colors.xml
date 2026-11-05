@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_dark">#0D131A</color>
+    <color name="card_dark">#18222D</color>
+    <color name="card_dark_stroke">#283849</color>
+    <color name="card_dark_elevated">#1F2C3A</color>
+    
+    <color name="primary_green">#00E676</color>
+    <color name="primary_green_dark">#00B248</color>
+    <color name="primary_green_light">#69F0AE</color>
+    
+    <color name="water_blue">#2979FF</color>
+    <color name="seed_amber">#FFAB00</color>
+    <color name="plough_brown">#8D6E63</color>
+    <color name="stop_red">#FF1744</color>
+    <color name="stop_red_dark">#D50000</color>
+    
+    <color name="status_connected">#00E676</color>
+    <color name="status_disconnected">#FF5252</color>
+    <color name="status_connecting">#FFD600</color>
+    
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#90A4AE</color>
+    <color name="text_muted">#607D8B</color>
+    <color name="btn_pressed">#37474F</color>
+    <color name="btn_normal">#263238</color>
+</resources>
+

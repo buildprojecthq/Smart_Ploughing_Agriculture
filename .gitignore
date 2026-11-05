@@ -1,0 +1,39 @@
+# Android / Gradle build files
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.idea/
+.idea
+*.log
+.DS_Store
+/build
+*/build
+build/
+app/build/
+
+# Android Studio / IntelliJ
+.idea/
+*.iws
+*.out
+captures/
+.externalNativeBuild
+.cxx
+*.apk
+*.aab
+
+# Keystore files
+*.jks
+*.keystore
+
+# Arduino / Embedded
+*.hex
+*.elf
+*.bin
+*.o
+*.d
